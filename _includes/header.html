@@ -32,6 +32,7 @@
             {% if include.type == "page" %}
               <hr class="small">
               <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+              {% include banner.html %}
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
             {% endif %}
