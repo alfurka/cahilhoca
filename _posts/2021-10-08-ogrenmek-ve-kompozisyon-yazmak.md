@@ -5,9 +5,11 @@ thumbnail-img: /img/icon.jpg
 tags: [Öğrenmek, Kompozisyon, Bloom Taksonomisi, Diyalog, Podcast]
 ---
 
-{% include youtube.html id='BctiCvxA968' %}
+
 
 Ezber ile alakalı yaptığımız bölümde hatırlarsanız kısaca öğrenme üzerine bir sınıflandırmadan bahsetmiştim: Bloom Taksonomisi. Benjamin Bloom isimli bir eğitimci, 1950 yıllarında Eğitim Amaçlarının Taksonomisi isimli kitabını yayınlıyor. Bu sınıflandırmada bazı değişiklikler ve geliştirmeler yapılsa da ismi Bloom taksonomisi olarak kalıyor. Bugün öğrenmek nedir sorusunu, Bloom taksomisi ve bazı örneklerle cevaplamaya çalışacağım. 
+
+{% include youtube.html id='BctiCvxA968' %}
 
 Öğrenmek nedir ile başlayalım. Öğrenmek bir düşüncenin anlaşılması, bilginin ezberlenmesi, bir hareketin yapılabilmesi, bir duygunun tecrübe edilmesi gibi farklı anlamlarda kullanılabilecek bir fiildir. Öğrenmekten daha çok bilişsel aktiviteler kastedilse de fiziksel hareketleri öğrenmek yani psikimotor öğrenme de kastedilebilir. Spor yapmak ya da entrüman çalmak gibi… Diğer yandan öğrenmenin derecesi vardır, ya da derinliği... İngilizce biliyor olabilirsin, ama ne kadar biliyorsun? İyi futbol oynayabiliyor olabilirsin, ama kimlerden daha iyisin? Üstelik çoğu zaman öğrenmiş bir şey ifade etmez. Burada bir görelilik söz konusu. Bireysel ve toplumsal algıda bir eşik vardır ve bu eşik aşılınca “iyi öğrendim” deriz. Eşiği tanımlarken de başkalarının seviyeleri baz alınır. 
 
