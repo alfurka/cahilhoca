@@ -5,7 +5,7 @@ thumbnail-img: /img/icon.jpg
 tags: [Öğrenmek, Kompozisyon, Bloom Taksonomisi, Diyalog, Podcast]
 ---
 
-*Bölüm Yakında Yüklenecektir*
+{% include youtube.html id='BctiCvxA968' %}
 
 Ezber ile alakalı yaptığımız bölümde hatırlarsanız kısaca öğrenme üzerine bir sınıflandırmadan bahsetmiştim: Bloom Taksonomisi. Benjamin Bloom isimli bir eğitimci, 1950 yıllarında Eğitim Amaçlarının Taksonomisi isimli kitabını yayınlıyor. Bu sınıflandırmada bazı değişiklikler ve geliştirmeler yapılsa da ismi Bloom taksonomisi olarak kalıyor. Bugün öğrenmek nedir sorusunu, Bloom taksomisi ve bazı örneklerle cevaplamaya çalışacağım. 
 
