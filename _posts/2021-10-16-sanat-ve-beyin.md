@@ -5,9 +5,10 @@ share-img: /img/kapak.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Sanat, Kompozisyon, Beyin, Beynin Plastisitesi, Podcast]
 ---
-PvB44BSF0i8
 
 Öncelikle beyin ile ilgili herkesin bildiği genel bilgileri tekrar hatırlayalım. Tıp jargonu ile değil de daha basit olarak, beynimizin ön bölgesi (frontal lob) olarak adlandırılan bölge, bizi diğer canlılardan ayıran kısımdır diyebiliriz. Yani insanî olan her türlü faaliyet bu bölgede gerçekleşiyor. Beynimiz derin bir yarıkla sağ ve sol olarak iki kısma ayrılmış ve bu bölgelerin fonksiyonlarının birbirinden çok farklı olduğu düşünülüyor. Düşünülüyor diyorum çünkü bu bilimsel olarak temellendirilmiş bir görüş değil. Kısaca bahsetmek gerekirse, sol taraf mantığı kullanan, doğa bilimleri ve analitik konuları inceleyen, bilgiyi ve dili temel alan kısım, sağ taraf ise duyguları ve sezgileri kullanan, sanatı ve ahlakı inceleyen, görsel ve işitsel uyaranlara duyarlı kısım şeklinde. Tartışmalı bir konu olduğu için detayına pek fazla girmeyeceğim. Bunun yerine Sanat ve Beyin ilişkisinden bahsedeğim.
+
+{% include youtube.html id='PvB44BSF0i8' %}
 
 Önceki bölümlerde görüşlerimizin lise ve sonrası dönemler için olduğunu belirtmiştik. Bunun bir nedeni de beynin ön kısmının 16 ile 40 yaşları arasında gelişiyor olmasıydı. Hepimiz bu dönemde farklı şeylere ilgi duymaya başladığımızı ve düşüncelerimizin çeşitlendiğini hissetmişizdir. 
 
