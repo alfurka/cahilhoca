@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Podcast Dinle
+subtitle: Youtube, Spotify, Google ve Diğer Platformlar
 ---
 ## Podcast Dinle
 
-Bizi YouTube, Spotify ve diğer pek çok platformdan takip edebilirsiniz:
+Bizi YouTube, Spotify, Google ve diğer pek çok platformdan takip edebilirsiniz:
 
 - [Youtube](https://www.youtube.com/channel/UCPzd7JNfYbiT3fFiaf8b-0g)
 - [Spotify](https://open.spotify.com/show/1hc8OLU3PLTBoQmRUxMp7n)
