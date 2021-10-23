@@ -14,6 +14,7 @@ author: Cahil Hoca
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Podcast Dinle: "podcast/"
   Hakkında: "2021-08-10-cahil-hoca-podcast-serileri-basliyor/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
