@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Podcast Dinle
-subtitle: Youtube, Spotify, Google ve Diğer Platformlar
+subtitle: Eğitim, Düşünce, Edebiyat ve Ekonomi Üzerine Bir Podcast
 ---
 ## Podcast Dinle
 
