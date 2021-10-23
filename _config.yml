@@ -14,7 +14,10 @@ author: Cahil Hoca
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Podcast Dinle: "podcast/"
+  Podcast Dinle: 
+    -  YouTube: "https://www.youtube.com/channel/UCPzd7JNfYbiT3fFiaf8b-0g"
+    -  Spotify: "https://open.spotify.com/show/1hc8OLU3PLTBoQmRUxMp7n"
+    -  Diğer: "podcast/"
   Hakkında: "2021-08-10-cahil-hoca-podcast-serileri-basliyor/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
