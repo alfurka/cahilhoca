@@ -7,12 +7,12 @@ subtitle: Youtube, Spotify, Google ve Diğer Platformlar
 
 Bizi YouTube, Spotify, Google ve diğer pek çok platformdan takip edebilirsiniz:
 
-- [Youtube](https://www.youtube.com/channel/UCPzd7JNfYbiT3fFiaf8b-0g)
-- [Spotify](https://open.spotify.com/show/1hc8OLU3PLTBoQmRUxMp7n)
-- [Apple Podcasts](https://podcasts.apple.com/us/podcast/cahil-hoca/id1581270250)
-- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tL2IzMzdjM2NiLTlmYzgtNDMyOC04ODA1LWY3OTYxNWJhOWE1ZA)
-- [RedCircle](https://app.redcircle.com/shows/b337c3cb-9fc8-4328-8805-f79615ba9a5d)
-- [Amazon](https://www.amazon.com/item_name/dp/B08K58KMT7)
+- [Youtube](https://www.youtube.com/channel/UCPzd7JNfYbiT3fFiaf8b-0g){:target="_blank"}
+- [Spotify](https://open.spotify.com/show/1hc8OLU3PLTBoQmRUxMp7n){:target="_blank"}
+- [Apple Podcasts](https://podcasts.apple.com/us/podcast/cahil-hoca/id1581270250){:target="_blank"}
+- [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tL2IzMzdjM2NiLTlmYzgtNDMyOC04ODA1LWY3OTYxNWJhOWE1ZA){:target="_blank"}
+- [RedCircle](https://app.redcircle.com/shows/b337c3cb-9fc8-4328-8805-f79615ba9a5d){:target="_blank"}
+- [Amazon](https://www.amazon.com/item_name/dp/B08K58KMT7){:target="_blank"}
 
 ## Cahil Hoca Podcasti Hakkında
 
