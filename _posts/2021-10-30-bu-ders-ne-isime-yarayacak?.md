@@ -1,6 +1,6 @@
 ---
 title: "Bu Ders Ne İşime Yarayacak? - Podcast (8)"
-cover-img: /img/kapak.jpg
+cover-img: /img/blackboard.png
 share-img: /img/kapak.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Sayısal, Sözel , Ders, Meslek, Podcast]
