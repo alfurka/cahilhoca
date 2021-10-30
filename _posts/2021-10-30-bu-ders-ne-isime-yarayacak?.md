@@ -1,3 +1,12 @@
+---
+title: "Bu Ders Ne İşime Yarayacak? - Podcast (8)"
+cover-img: /img/kapak.jpg
+share-img: /img/kapak.jpg
+thumbnail-img: /img/icon.jpg
+tags: [Sayısal, Sözel , Ders, Meslek, Podcast]
+---
+
+
 Elimizde konuşulacak bir çok konu vardı ama konuştukça yenileri çıkıyor. Bugünkü konuyu da başka konuların arasında konuşacaktık ama ayrı bir bölüm yapmaya karar verdim. “Öğrenmek ve Kompozisyon Yazmak” başlıklı bölümü yayınladıktan sonra, Türkiye’de eğitim ile alakalı tartışmalara geçen hafta tekrar göz gezdirdim. YouTube’dan bir kaç video seyrettim, ekşi sözlükte bazı başlıkları inceledim ve bazı web sayfalarında konu ile alakalı yazılmış bazı makaleleri okudum. Yani kısa bir literatür taraması oldu. Aslında önceden buna benzer bir tarama yapmıştım ama tartışmaların yön değiştirip değiştirmediğini, yeni şeyler söylenip söylenmediğini merak ettim. Merak ettiyseniz söyleyeyim yeni söylenen hiçbir şey yok. En azından ben karşılaşmadım. 
 
 Bunlar arasında bazı yeni videolar ve makaleler özellikle dikkatimi çekti. Türkiye’de toplumun eğitimden beklentisini ve eğitime bakış açısını çok güzel özetlemiş güncel videolar ve yazılara denk geldim. Tabi eğitimin nasıl olması gerektiği de çok güzel bir biçimde tarif edilmiş. Ekseriyetle okuduğum makaleler ve seyrettiğim videolar bizim podcastte eleştirdiğimiz her şeyi benimsemiş. Bu konuşmalar içerisinden sürekli tekrar edilen bir ifadeyi aldım ve bugünün konusu yaptım: “Bu ders ne işime yarayacak?” Bir tane güncel videonun binlerce kere seyredildiğini görünce, çok havaya konuşmadığımızı tekrar hatırlamış ve teyit etmiş oldum. Zira, kahvedeki dayı da, okuldaki öğretmen de, gencecik çocuklar da aynı şekilde düşünüyor. Jacques Ranciere’in tabiri ile herkes mevcut aptallaştırıcı eğitim sistemini mükemmelleştirmeye çalışıyor. Önceki bölümü unutanlar ya da dinlemeyenler için bu ifade belirsiz olmuş olabilir. Farklı bir şekilde ifade edeyim: Herkes “en iyi makine nasıl üretilir” sorusunun bakış açısı ile eğitimi düzeltilmeye çalışılıyor. 
