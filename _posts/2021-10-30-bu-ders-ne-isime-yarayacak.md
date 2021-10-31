@@ -37,12 +37,12 @@ Hep merak ettim bu soruyu ilk kim sordu diye. Ya da neden öğretmenler, öğren
 
 Neyse bunlar benim spekülasyonlarım ve muhtemelen yanlışlar. “Bu ders ne işime yarayacak” söylemini biraz daha derinlemesine inceleyelim. 
 
-1. İnsanın Çok Yönlülüğünün Evrimsel Arkaplanı
+## 1. İnsanın Çok Yönlülüğünün Evrimsel Arkaplanı
 
 İnsanın çok yönlü olması ve farklı konularda uzmanlıklar kazanmasının evrimsel bir arka planı da var. Noah Harari’nin “Sapiens: İnsanoğlunun Kısa Tarihi” isimli kitabında bir bölümde avcı-toplayıcıların modern insanlardan daha zeki ve bilgili olduğunu anlatıyor. Şöyle ki, avcı-toplayıcıların hayatta kalabilmeleri için yaşadıkları çok geniş coğrafyayı bilmeleri, bitkileri ve hayvanları tanımaları, aletler yapabilmeler, avcılık teknikleri geliştirmeleri gerekiyor. Bunları da hayatta kalabilecek kadar iyi bilmeleri ve yapabilmeleri lazım. Haliyle de işlerinde çok iyiler. Hem bedenen hareketli hayatları dolayısı ile güçlüler hem de zihnen aktifler. Farklı konularda bilgi sahibiler ve sürekli öğrenme halindeler. Harari, modern insanın bu kadar çok şey bilmesi gerekmediği ve ortalama modern insanın da bu anlamda bir avcı-toplayıcıdan daha az bilgiye ve beceriye sahip olduğunu iddia etmişti. 
 Özet olarak insan biyolojik olarak da çok yönlü olmaya programlanmış bir canlı. Bu konuda ikna olmayanlar biraz önce bahsettiğim “Yaratıcı Beyin” kitabına da bakabilir.
 
-2. Hedefi olmayan lise öğrencisi olur mu?
+## 2. Hedefi olmayan lise öğrencisi olur mu?
 
 Bu soru bölüm ile biraz alakasız gibi görünüyor ama aslında yine insanın çok yönlülüğü ile alakalı. “Bu ders ne işime yaracak” sorunusu sorduran yanılgı ile de aynı kökenlere sahip. 
 
@@ -53,7 +53,7 @@ Bölüm boyunca pek çok defa vurguladığım üzere insan çok yönlü bir canl
 
 Kısaca bir lise öğrencisinin ve hatta üniversiteye gelmiş bir öğrencinin dahi net hedeflerinin olmaması normal bir şeydir. Öğrencilerin böyle bir baskı hissetmeleri ve bu konuda karar verememeleri insanları tek tipleştiren yetenek yanılgısından ileri gelir. Ayrıca aynı yetenek yanılgısı insanlara “Bu ders ne işime yarayacak?” dedirterek eğitimin kalitesini düşürür. Şimdi bunu biraz açalım. 
 
-3. “Bu ders ne işime yarayacak?” düşüncesinin öğrenme kalitesini düşürmesi
+## 3. “Bu ders ne işime yarayacak?” düşüncesinin öğrenme kalitesini düşürmesi
 
 Öğrencilere bu konuda fazla kızmaya hakkımız yok çünkü öğretmenler ve büyükler tarafından sürekli dillendirilen bir durum. Bunun öğrencinin sürekli kulağına çalınması ve telkin edilmesi dolayısıyla, öğrenci de kendi branşının dışındaki konulara ilgisini daha da çok kaybediyor. Hatta bu yanılgı o kadar güçlü ki, üniversite sınavına hazırlanan öğrenciler bu konuda o kadar şartlanmışlar ki, sınava hazırlanırken yanlış strateji benimsiyorlar. Pek çok öğrenci, branşı dışındaki konulara ne çalışıyorlar ne de soruları çözmeye çalışıyorlar. Mesela, sayısal öğrencisi hiç sosyal bilimler çözmeden ve çözmeyi dahi hedeflemeden sınava giriyor. Halbuki, her ne kadar puan katsayısı düşük olsa da, matematikten 2 tane daha fazla doğru yapmaya harcadığı zamanı, 15 tane sosyal bilgilerden doğru yapmaya harcayabilir. 15 tane sosyal bilimler sorusu çözebilmek için, 2 tane fazla matematik sorusu çözmekten daha az çalışması da yeterli olacak. Neyse… 
 
