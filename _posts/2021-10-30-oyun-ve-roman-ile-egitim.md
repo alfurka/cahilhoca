@@ -6,7 +6,7 @@ thumbnail-img: /img/icon.jpg
 tags: [Oyun, Roman, Dizi, Film, Podcast]
 ---
 
-Biliyorsunuz, podcast kanalımızda eğitim üzerine konuşuyoruz ve eğitim vermeyi hedeflediğimiz gençlerin çoğunlukla vakitlerini oyun oynayarak veya roman okuyarak geçirdiklerine şahit oluyoruz. Tabi bunlar haricinde de birçok uğraşları vardır fakat bu bölümde özellikle oyunların ve romanların eğitim sürecinde de doğrudan yer alabileceklerini, birer eğitim aracı olarak kullanılabileceklerini ifade edeceğim. Ali’nin önceki bölümde bahsettiği öğrencilerin aldıkları derslerle ilgili “Bu ders benim ne işime yarayacak?” sorusu gibi, bu kez öğrencilere sorulan “Bu oynadığın oyunlar, okuduğun romanlar ne işine yarayacak?” sorusunu ele alacağım. Vakit kaybı olarak görülen bu uğraşların neden olduğu etkileri birlikte değerlendirelim.
+Eğitim vermeyi hedeflediğimiz gençlerin çoğunlukla vakitlerini oyun oynayarak veya roman okuyarak geçirdiklerine şahit oluyoruz. Tabi bunlar haricinde de birçok uğraşları vardır fakat bu bölümde özellikle oyunların ve romanların eğitim sürecinde de doğrudan yer alabileceklerini, birer eğitim aracı olarak kullanılabileceklerini ifade edeceğim. Ali’nin önceki bölümde bahsettiği öğrencilerin aldıkları derslerle ilgili “Bu ders benim ne işime yarayacak?” sorusu gibi, bu kez öğrencilere sorulan “Bu oynadığın oyunlar, okuduğun romanlar ne işine yarayacak?” sorusunu ele alacağım. Vakit kaybı olarak görülen bu uğraşların neden olduğu etkileri birlikte değerlendirelim.
 
 {% include youtube.html id='KhnUx0X16kE' %}
 
