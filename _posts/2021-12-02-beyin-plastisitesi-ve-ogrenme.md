@@ -9,7 +9,7 @@ tags: [Beyin, Plastisite, Sınava Hazırlık, Hata Yapmak, Çokyönlü Olmak, Po
 
 Eğitim konusuna önce felsefesi ile başladık. Burada hem kendi tecrübemiz hem de başkalarının tecrübelerinden faydalanarak bir düşünce ortaya koymaya çalıştık. Ki hala bunun için çabalamaya devam ediyoruz. İşin bilimsel boyutunu ihmal etmemekle birlikte bunu ikinci plana attık. En azından benim için eğitimin felsefesi biliminden önce geliyor. Çünkü bilimsel bulguları yorumlamak sanıldığı kadar kolay değil. Yani bilimsel bir veriyi baz alarak “nasıl yaşamalıyız” ya da “şimdi ne yapmalıyız” gibi soruları yanıtlamak sanıldığı kadar basit bir şey değil. 
 
-{% include youtube.html id='kcTMpIn1QyY' %}
+{% include youtube.html id='-6hXYfYaA0g' %}
 
 Yine de bu bölümde işin nöroloji tarafına bir bakış atarak, mevcut bilimsel bulgular ile iddialarımızın tutarlı olduğunu göstermeye çalışacağım. Hatta bunun için çok fazla deney, kavram da kullanmayacağım. Sadece beyin plastisitesi üzerinden konuştuğumuz pek çok konuyu ele alacağım. Öncelikle tanım ile başlayalım: Beyin plastisitesi nedir? 
 
