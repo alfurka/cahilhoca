@@ -9,6 +9,8 @@ tags: [Tembel, Miskin, Üşenme, Faydalı Tembellik, Podcast]
 
 Bu bölümümüzde yine toplumumuzda oldukça yaygın olan  “Zeki ama çalışmıyor.” söyleminde tarif edilen öğrenci tipini ele alarak olayın arka planının analizini yapmaya çalışacağım. Toplumdaki diğer birçok yanlış kanının aksine bu söylemin haklı olduğunu düşünüyorum. Peki neden? Çalışmamak, yani tembellik övgüye layık bir şey değil elbette. Anlatacaklarımdan sonra da kimsenin tembelliğe yöneleceğini düşünmüyorum. Fakat öğrencilik hayatımızda zaman zaman hepimizin kendisini içerisinde bulduğu bir durum tembellik. Bazıları içinse her zaman geçerli. Öncelikle tembelliğin bizim eğitim düşüncemizde tanımlamasını ve analizini yapalım. Sonra da tembelliğin ana nedenlerini ve neden kişide böyle bir eylemsizliğe neden olduğunu sorgulayalım.  
 
+{% include youtube.html id='YpiopctsdBo' %}
+
 Hatırlarsanız insanı daha önce şu şekilde tarif etmiştik. “İnsan, zekanın hizmet ettiği bir iradedir.” Şunu da söylemiştik. “İnsanların arasındaki farkın sebebi iradedir, herkesin zekası farklı olsa da yeterlidir.” O halde tembelliği nasıl tanımlayabiliriz?
 
 Ben öncelikle tembelliği 3’e ayırmak istiyorum. 
