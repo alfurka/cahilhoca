@@ -3,7 +3,7 @@ title: "Tembelliğin Analizi - Podcast (11)"
 cover-img: /img/chess.jpeg
 share-img: /img/kapak.jpg
 thumbnail-img: /img/icon.jpg
-tags: [Tembel, Miskin, Üşenme, Faydalı Tembellik, Podcast]
+tags: [Tembel, Miskin, Oblomov, Faydalı Tembellik, Podcast]
 ---
 
 
