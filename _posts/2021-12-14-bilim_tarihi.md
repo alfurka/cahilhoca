@@ -1,3 +1,13 @@
+---
+title: "Bilim Tarihi / John Gribbin"
+cover-img: /img/puzzle.jpg
+share-img: /img/kapak.jpg
+thumbnail-img: /img/hoca.jpg
+tags: [Birey, Toplum, Eğitimde Birey]
+---
+
+
+
 BİLİM TARİHİ
 Öncelikli olarak özel değiliz. Güneşimiz Samanyolu Galaksisi içerisindeki milyarlarca yıldızdan biri. Galaksimiz de milyarlarca galaksiden sadece biri. Hatta evrenimizin bile tek olmayabileceği ileri sürülüyor. Yani ne çölde kum tanesi ne denizde su damlasıyız. Bunun her zaman bilincinde olmalıyız.
 Bilim insanları kendisinden önce gelen nesillerin çalışmalarını izleyerek bilime katkı sağlıyorlar. Newton bile başta Galileo ve Descartes olmak üzere kendisinden önce gelenlere dayanmaktadır. Yani tarihteki bir bilim bilim insanı olmayınca bilim durur diye bir şey yok. Sadece gecikmeler yaşanır. Doğru zamanda doğru yerde olan herkes burada anlatılan büyük keşifleri yapabilir. Bilimin ilerlemesi hiçbir biçimde durmadığına göre hala daha hikâyenin bir sonraki adımında rol oynayabiliriz. Bunun bilincinde olmalıyız.
