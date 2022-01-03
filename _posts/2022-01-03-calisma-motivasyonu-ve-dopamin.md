@@ -41,7 +41,7 @@ Bu doğrultuda internette karşıma “dopamin detoksu” diye bir konsept çık
 ## Kaynaklar
 
 - [How I Tricked My Brain To Like Doing Hard Things (dopamine detox)](https://www.youtube.com/watch?v=9QiE-M1LrZk&ab_channel=BetterThanYesterday)
-- [Controlling Your Dopamine For Motivation, Focus & Satisfaction | Huberman Lab Podcast #39](https://www.youtube.com/watch?v=QmOF0crdyRU&ab_channel=AndrewHuberman)
+- [Controlling Your Dopamine For Motivation, Focus & Satisfaction](https://www.youtube.com/watch?v=QmOF0crdyRU&ab_channel=AndrewHuberman)
 
 ## Bizim Felsefemiz İyimserlik mi?
 
