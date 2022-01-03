@@ -6,8 +6,6 @@ thumbnail-img: /img/icon.jpg
 tags: [Motivasyon, Dopamin , Huberman, Konsantrasyon, Podcast]
 ---
 
-
-
 Geçtiğimiz aylarda podcasti ve podcastte işlediğimiz konuları bir grup arkadaşla konuştuk. Podcast konularını yeniden ele aldık. Bu konuya neden önem verdiğimizi anlattım. Bu konuşmada bir soru farklı şekillerde bana birkaç kere soruldu. Muhtemelen konuşma boyunca pek çok arkadaş kendi iç dünyasında bu sorunun cevabını arıyordu. Soruyu şu şekilde yuvarlayabilirim: “Bireysel çalışmanın önemli olduğunun farkındayım ama çalışma motivasyonumu koruyamıyorum. Bunu nasıl aşabiliriz?” 
 
 {% include youtube.html id='LZMl0FyngCc' %}
@@ -18,13 +16,13 @@ Birincisi ve en önemlisi: Sorunlu eğitim anlayışı. Zaten podcastte bizim ç
 
 Toplumsal uyanış sağlamak gibi bir hedefimiz olduğu sanılmasın. Podcast dinleyicilerine söylediğimiz şey: Neden sürüden ayrılmamız gerektiği. Yani topluma değil bireye hitap ediyoruz. Her ne kadar toplumu değiştirmek büyük ve neredeyse imkansız bir hayal olsa da önceki bölümlerde kendi çevremize tesir edebileceğimizden bahsetmiştik. Buna akran etkisi de diyebiliriz. Eğitim ekonomisinde ingilizcesi “peer effects” olarak geçer. Bu konuda yapılan pek çok çalışma var. Bu çalışmalar sınıfınızdaki arkadaşınızın ya da sosyal ilişkiler içerisinde bulunduğunuz kişilerin sizin başarınıza tesir ettiğine dair kanıtlar sunuyor. Çok ilginç değil, biliyorum. Hepimiz çocuklarımızı boşu boşuna iyi okullara göndermek istemiyoruz. Aslında bu bakış açısı bize nasıl bireysel çalışma motivasyonunu sağlayabileceğimizi de söylüyor: Küçük arkadaş grupları ile birlikte çalışmak. Aynı veya farklı konularda… Eğer yakın arkadaşınız bireysel olarak bir şeyler öğrenebilen birisi ise, bu durum sizin için normalleşir. Yani sürüden ayrılmak sizi daha az korkutur. Aynı şekilde sizin çabanız yakın arkadaşınızı olumlu etkiler. Eğer bu durum karşılıklı bir pozitif geri bildirime dönüşürse, bireysel çalışma çok kolaylaşır. Mesela Talha gibi, herhangi bir eğitim alma ihtiyacı hissetmeden boş vaktinde Katar Dünya Kupası için futbol topu tasarlayan, android için oyun geliştiren ya da fantastik roman yazan bir tanıdığınız varsa, farklı şeyler yapabilmek ve öğrenebilmek sizin için tabu olmaktan çıkar.
 
-İhtiyaç Tanımlamak
+## İhtiyaç Tanımlamak
 
 Benim en çok kullandığım yöntem ise “ihtiyaç tanımlamak.” Bireysel çaba gerektiren işlerimi kendimce ihtiyaca dönüştürüyorum. Planlarımı tanıdıklarıma anlatıyorum veya bir iş için bitireceğim zamanı kısa tutarak söz veriyorum ki başkalarının beklentileri bana baskı yapsın. Kısaca takvimimi mümkün mertebe sıkıştırıyorum. Böylece sürekli bitirmem gereken işler oluyor. Tembelliğe pek zaman kalmıyor. Öğrenmek istediğim yeni şeyleri de mümkün mertebe ihtiyaç üzerinden tanımlıyorum. Örneğin yüksek lisansa başlarken finansal olarak çok sıkışacağımı öngörmüştüm. İlerde belki part-time ya da frelance olarak çalışabilirim diyerek Python öğrenmeye karar verdim. Aynı zamanda Python ilerleyen zamanlarda kendi branşımda kullanabileceğim bir şeydi ama para ihtiyacı öğrenme sürecimi hızlandırdı. Yine motivasyonumu yüksek tutabilmek ve kendimi ciddiye aldığımı göstermek adına cüzi bir ücret ile online kurs satın aldım. Aylık abonelik ücreti ödediğiim bir kurstu. Öğrenme süreci uzadıkça para ödemem gerektiğinden çok kısa sürede tüm dersleri bitirdim. Öğrendikten sonra hiçbir zaman para kazanmadım ama yıllardır Python ile bir sürü iş yaptım. Hatta bu süreç bugün çalıştığım alanı dahi şekillendirdi. 
 
 Sanıyorum ki herkesin kendince benzer yöntemleri vardır. Şimdi kısaca bu işin nörobilim tarafından bahsedeceğim. Geçen bölümde sizlere bahsettiğim Dr. Huberman’ın podcasti gerçekten bir cevher. Bundan sonraki kısım onun çektiği bir bölümün kısa bir özeti ve benim yorumum olacak. Web sitemizde bu bölümün linkini bulabilirsiniz. 
 
-Dopamin Motivasyonumuzu Nasıl Etkiler?
+## Dopamin Motivasyonumuzu Nasıl Etkiler?
 
 Dopamın her ne kadar mutluluk hormonu olarak bilinse de Dr. Huberman dopaminin bu şekilde tanımlanmasının onun doğru anlaşılmasına engel olduğunu ifade ediyor. Kendi podcast konusunun bağlamında, dopaminin motivasyon hormunu olarak da adlandırılabileceğini söylüyor. Bu bölümde günlük aktivitelerimizin beynimizde dopaminin salınımını ve dopamin nasıl etki ettiğini detaylı olarak anlatıyor. Bu bölümden ben birkaç tane noktayı ele alacağım. Ayrıca bu bulguların bazı felsefelerle, dinlerle tutarlı olduğunu söyleyeceğim. 
 
@@ -36,17 +34,15 @@ Kokain çok uç bir örnek olsa da günlük hayatta hepimiz benzer bağımlılı
 
 “Tüketim Toplumu” olmak sorununu pek çok bakış açısından ele alabiliriz. Çevreye etkilerini, bazıları ekonomiye etkilerini, bazıları dini olarak sakıncalarını konuşabiliriz. Görünen o ki tüketim toplumu olmak bireyin psikolojisini ve dolayısıyla çalışmasını da olumsuz etkiliyor. Bizim konumuz için de bu oldukça önemli: Bireysel çalışma alışkanlığının ilk adımı maddi ve manevi olarak tüketim alışkanlıklarından uzak durmak, sade bir hayat sürmek. Aslında Dr. Huberman’a göre bu zaten zihinsel sağlığımız için elzem bir şey ama eğer kendi başıma bir şeyler çalışamıyor, öğrenemiyorum diyorsanız sanırım başlamanız gereken ilk nokta burası. Sağlıklı-basit yemekler yemek, sosyal medya kullanımı azaltmak, daha az bilgisayar oyunu oynamak vs. Tekrar ifade etmek istiyorum. Dopamin sadece yaptığınız işlerden keyif almanızı sağlamaz aynı zamanda sizi “bir şeyler” yapmaya teşvik eder, motive eder. Dopamini gereksiz şekilde tüketirseniz, sizin için önemli olan aktiviteler için daha az motive olursunuz. 
 
-Dopamin detoksu
+## Dopamin detoksu
 
 Bu doğrultuda internette karşıma “dopamin detoksu” diye bir konsept çıktı. Dopamin tüketimini azaltarak, dopamin eşiğini düşürmeye ve insanın ruh halinin toparlanması amaçlanıyor. Bu konuda fazla bilgim yok ama benim araştırmalarımla tutarlı görünüyor. İlgililer için web sitemize birkaç tane kaynak bıraktım. Eğer ilginizi çektiyse benim tavsiyem Dr. Huberman’ın dopamin ve motivasyon ile alakalı çektiği bölümü dinlemeniz. Bu bölümde hem dopamini daha iyi anlayabilirsiniz hem de Dr. Huberman’ın önerilerini dinleyebilirsiniz. 
 
-Kaynaklar
+## Kaynaklar
 
-How I Tricked My Brain To Like Doing Hard Things (dopamine detox)
+- [How I Tricked My Brain To Like Doing Hard Things (dopamine detox)](https://www.youtube.com/watch?v=9QiE-M1LrZk&ab_channel=BetterThanYesterday)
+- [Controlling Your Dopamine For Motivation, Focus & Satisfaction | Huberman Lab Podcast #39](https://www.youtube.com/watch?v=QmOF0crdyRU&ab_channel=AndrewHuberman)
 
-
-Controlling Your Dopamine For Motivation, Focus & Satisfaction | Huberman Lab Podcast #39
-
-Bizim Felsefemiz İyimserlik mi?
+## Bizim Felsefemiz İyimserlik mi?
 
 Bu güne kadarki bölümlere kısaca göz gezdirdiğimizde, ortaya koyduğumuz düşüncenin hep olumlu taraflarını ele aldığımızı fark ettim. Böyle bir niyetimiz yoktu gerçi… Mesela “yeteneklerin sanıldığı kadar önemi yok, önemli olan ilgi ve çalışma” diyoruz. Yetenek farklılıkları olarak algılanan şeylerin aslında “birikim” farklılıkları olduğunu iddia ettik. Bu her ne kadar iyimser bir söylem gibi dursa da aslında kişileri karamsarlığa da itebilir. Çünkü bu aynı zamanda “erken kalkan yol alır” demek. Bu konuyu bir sonraki (veya daha sonraki) bölümde kapitalizm bağlamında ele alacağım. Bu bölüm, tüm sorunları kapitalizme yıkan, mızmızlık yaptığımız bir bölüm olmayacak. Mevcut şartlar altında, ekonomik ve sosyolojik, bireysel eğitim anlayışının tek çıkış yolu olduğunu iddia edeceğim. Bir sonraki bölümde görüşmek üzere. İyi günler. 
