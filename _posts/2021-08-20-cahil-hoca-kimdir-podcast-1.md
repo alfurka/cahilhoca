@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Cahil Hoca Kimdir? (1/4)"
-cover-img: /img/blackboard.png
-share-img: /img/blackboard.png
+share-img: /img/icon.jpg
 thumbnail-img: /img/hoca.jpg
 tags: [Cahil Hoca, Podcast, Eğitim, Öğretim]
 ---
