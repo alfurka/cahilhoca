@@ -8,7 +8,7 @@ tags: [Hawkins, Numenta, 1000, Beyin, Neokorteks, Zeka, Podcast]
 
 İlk 4 bölümde değerlendirmesini yaptığımız, podcast kanalımıza ismini veren Cahil Hoca kitabının ardından Jeff Hawkins tarafından yayınlanan Bin Beyin Teorisi kitabı hakkında bir değerlendirme yapmak istedik. Kitabın henüz yayınlanmış bir Türkçe çevirisi olmadığı için İngilizce baskısından okuduk. Ben de ne zamandır İngilizce bir kitabı baştan sona okumamıştım. Ali ile birlikte yaptığımız değerlendirmelerimizi sizlere aktarmaya çalışacağım. 
 
-{% include youtube.html id='' %}
+{% include youtube.html id='GPTCFUMfbuY' %}
 
 Öncelikle neden bu kitabı önemsediğimizden bahsedeyim. Biliyorsunuz öğrenme dediğimiz olgu beyinde gerçekleşiyor ve henüz mekanizmasını çözebilmiş değiliz. Bu kitap, bize daha önceki bölümlerde yaptığımız değerlendirmelerle uyumlu bazı bilimsel araştırma sonuçları sağladı. Yalnızca kuru bir spekülasyon değil, bilimin ilerlediği yönde ilerlediğimizi bize göstermiş oldu. Kitapla ilgili türkçe kaynaklarda pek bir değerlendirme göremedim. Barış Özcan’ın yayınladığı güzel bir Youtube bölümü de var konuyla ilgili. Fakat biz kitabı daha çok kendi konularımız bağlamında ele alacağız. 
 
