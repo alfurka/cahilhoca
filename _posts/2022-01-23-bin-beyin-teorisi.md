@@ -1,4 +1,11 @@
-Merhabalar ben Talha,
+---
+title: "Bin Beyin Teorisi - Podcast (13)"
+share-img: /img/icon.jpg
+thumbnail-img: /img/icon.jpg
+tags: [Hawkins, Numenta, 1000, Beyin, Neokorteks, Zeka, Podcast]
+---
+
+{% include youtube.html id='' %}
 
 İlk 4 bölümde değerlendirmesini yaptığımız, podcast kanalımıza ismini veren Cahil Hoca kitabının ardından Jeff Hawkins tarafından yayınlanan Bin Beyin Teorisi kitabı hakkında bir değerlendirme yapmak istedik. Kitabın henüz yayınlanmış bir Türkçe çevirisi olmadığı için İngilizce baskısından okuduk. Ben de ne zamandır İngilizce bir kitabı baştan sona okumamıştım. Ali ile birlikte yaptığımız değerlendirmelerimizi sizlere aktarmaya çalışacağım. 
 
