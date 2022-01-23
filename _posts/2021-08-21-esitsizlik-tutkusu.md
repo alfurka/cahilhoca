@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Eşitsizlik Tutkusu"
-cover-img: /img/MBS_CertifiedStrategyManager21.jpg
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/bird.png
 tags: [Zeka, Eşitsizlik Tutkusu]
 ---
