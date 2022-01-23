@@ -1,3 +1,7 @@
-<div class="youtube-wrapper">
-    <iframe src="https://www.youtube.com/embed/{{ include.id }}" allowfullscreen></iframe>
-</div>
+<script src="/assets/js/ytdefer.min.js"></script>
+
+<div style="margin:auto;width:380px;height:214px;max-width:95%;" class="ytdefer" data-alt="Podcast Dinle" data-title="Podcast Dinle" data-src="{{ include.id }}"></div>
+
+<script>
+window.addEventListener('load', ytdefer_setup);
+</script>
