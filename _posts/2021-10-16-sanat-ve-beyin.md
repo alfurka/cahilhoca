@@ -1,7 +1,6 @@
 ---
 title: "Sanat ve Beyin - Podcast (7)"
-cover-img: /img/brain_art.jpg
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Sanat, Kompozisyon, Beyin, Beynin Plastisitesi, Podcast]
 ---
