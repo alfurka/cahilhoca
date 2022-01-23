@@ -1,7 +1,6 @@
 ---
 title: "Oyun ve Roman İle Eğitim - Podcast (9)"
-cover-img: /img/chess.jpeg
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Oyun, Roman, Dizi, Film, Podcast]
 ---
