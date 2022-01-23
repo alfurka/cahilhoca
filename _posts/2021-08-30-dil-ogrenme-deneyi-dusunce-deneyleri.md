@@ -2,7 +2,7 @@
 layout: post
 title: "Dil Öğrenme Deneyi"
 subtitle: Bir Düşünce Deneyi
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/hoca.jpg
 tags: [Düşünce Deneyi, Dil Öğrenme Deneyi]
 ---
