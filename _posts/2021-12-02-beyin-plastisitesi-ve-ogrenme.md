@@ -1,7 +1,6 @@
 ---
 title: "Beyin Plastisitesi ve Öğrenme - Podcast (10)"
-cover-img: /img/mistake.jpeg
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Beyin, Plastisite, Sınava Hazırlık, Hata Yapmak, Çokyönlü Olmak, Podcast]
 ---
