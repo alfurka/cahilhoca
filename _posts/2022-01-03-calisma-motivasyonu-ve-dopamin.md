@@ -1,7 +1,6 @@
 ---
 title: "Çalışma Motivasyonu ve Dopamin - Podcast (12)"
-cover-img: /img/blackboard.png
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Motivasyon, Dopamin , Huberman, Konsantrasyon, Podcast]
 ---
