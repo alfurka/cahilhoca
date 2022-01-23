@@ -1,6 +1,6 @@
 ---
 title: "Öğrenmek ve Kompozisyon Yazmak - Podcast (6)"
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Öğrenmek, Kompozisyon, Bloom Taksonomisi, Diyalog, Podcast]
 ---
