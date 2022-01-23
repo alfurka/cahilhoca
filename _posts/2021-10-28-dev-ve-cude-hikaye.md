@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dev ve Cüce - Hikaye"
-share-img: /img/blackboard.png
+share-img: /img/icon.jpg
 thumbnail-img: /img/avatar-icon.png
 tags: [Hikaye, öykü]
 ---
