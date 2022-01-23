@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Eğitim Sistemi Üzerine - Podcast (4/4)"
-cover-img: /img/learning.jpg
-share-img: /img/kapak.jpg
+share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Cahil Hoca, Podcast, Eğitim Sistemi, Öğretim, Kurumsallaşma, Zihinsel Özgürleşme]
 ---
