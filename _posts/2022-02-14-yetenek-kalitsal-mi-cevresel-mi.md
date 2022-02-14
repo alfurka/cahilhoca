@@ -7,7 +7,7 @@ tags: [Yetenek, Kalıtsal Miras, Çevresel Faktörler, İrade, Podcast]
 
 Yeteneklerimizi şekillendirmede kalıtsal miras mı yoksa çevresel faktörler mi daha fazla rol oynuyor? Bugünkü bölümde yetenek ve yeteneklerin oluşumu üzerine konuşacağız. 
 
-{% include youtube.html id='YOUTUBE-ID' %}
+{% include youtube.html id='cBMONwZD7Sk' %}
 
 Tüm bölümler boyunca dinleyicilerimizi ikna etmekte en çok zorlandığımız ve muhtemelen pek çoğunuzu ikna edemediğimiz konulardan birisi: Yetenek. Yetenek konusuna, özellikle podcastin üçüncü bölümünde olmak üzere pek çok bölümde değindik. Toplumdaki yetenek yanılgısının eğitimde büyük sorunlara yol açtığını iddia ettik. Sanıyorum ki biraz ilginç şeyler söyledik. Bugünkü bölümde bu konuyu biraz daha açmaya çalışacağım.
 
