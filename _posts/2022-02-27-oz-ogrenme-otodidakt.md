@@ -10,7 +10,7 @@ Daha önce pek sık duymamış olduğunuzu düşündüğüm bir kavramla bugün 
 
 Otodidaktizm’i resmi ve sistematik bir eğitim sistemi olarak uygulayan bir devlet yok bildiğim kadarıyla. Zaten Ranciere de bunun kurumsal olarak verilemeyeceğinden bahsetmişti. Ama bireysel olarak başarıyla uygulanabilir. Hepimiz hayatlarımızda bazen yepyeni bir düşünce ile karşılaşır ve bu düşünceyi benimseriz. Sonra da bu bizim yaşam tarzımız haline gelir ya hani. İşte eğitimde de otodidakt kavramını benimserseniz eğer, artık sizin öğrenme tarzınız haline gelecektir diye düşünüyorum.
 
-{% include youtube.html id='cBMONwZD7Sk' %}
+{% include youtube.html id='gb2oLGInQAs' %}
 
 Konuyla ilgili yaptığım araştırmalarda beni gülümseten bir şey oldu. Youtube’da otodidakt diye ilk arattığımda otomobillerle ilgili videolar karşıma çıktı. Otodidakt’a dair neredeyse hiçbir şey yoktu. İster istemez şöyle bir analoji kurdum kendi kendime. Oto kelimesi mobil ile birleşince kendini hareket ettirebilen anlamına geliyor. Bunu sağlayan ise içindeki yakıttan hareket üreten motora sahip olması. Otomobil ile istediğimiz yere gitme özgürlüğüne sahip oluyoruz. Oto kelimesi didakt ile birleştiğinde ise kendi kendine öğrenebilen anlamına geliyor. Kişinin bunu yapabilmesi de bilgileri öğrenebilen zekaya sahip olmasından kaynaklanıyor. Bu şekilde de istediğimiz her şeyi kendi kendimize öğrenme özgürlüğü kazanıyoruz.
 
