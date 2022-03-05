@@ -42,7 +42,7 @@ Farkettiyseniz ifadeler yoğun şekilde bilgi içeriyor. Dinlediğiniz bu son de
 
 Beynin tekniklerle ilgilenen kısmı ile sanatı ortaya çıkaran kısmı henüz bilimsel olarak ortaya çıkarılamamış olsa da muhtemelen farklıdır. Özellikle mantık ve matematik gibi uğraşlarda beynin çok lokal bir bölgesi uyarılırken uygulamalı sanatsal faaliyetler bütün beynin uyarıldığı uğraşlardır. Özellikle bir müzik entrümanı çalmanın diğer uğraşlara göre çok daha etkili olduğu bilimsel olarak ispatlanmıştır. Müzik dinlemenin ve enstrüman çalmanın beyne etkisi ile alakalı web sayfamıza bir video ekleyeceğim. Kesinlikle seyretmenizi tavsiye ederim. Video: 
 
-{% include youtube.html id='R0JKCYZ8hng' %}
+[How playing an instrument benefits your brain - Anita Collins](https://www.youtube.com/watch?v=R0JKCYZ8hng)
 
 İşte bu yüzden, gerçek bir sanatçı sanatını ortaya koyarken adeta beyninde havai fişekler patlayan kişidir. Bir başkasına hem hissettiklerini, hem de düşündüklerini aktarmasını sağlayan şey, beyninin bir bütünlük içerisinde ortaya koyduğu eseri diğer insanların da bir bütünlük içerisinde algılamasıdır. Sanatı değerli kılan tekil olma özelliğidir. Bu da sanatçının bireyselliğinden gelir. 
 
