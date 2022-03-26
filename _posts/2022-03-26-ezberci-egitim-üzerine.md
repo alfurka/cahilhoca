@@ -1,3 +1,12 @@
+---
+title: "Ezberci Eğitim"
+share-img: /img/icon.jpg
+thumbnail-img: /img/icon.jpg
+tags: [Ezber, Eğitim, Sentez, Bloom taksonomisi,]
+---
+
+
+
 Üzerine konuşmayı çok sevdiğim bir konuya : Ezberci Eğitime Karşı Olmak. 
 
 Konuya verdiğim ehemmiyeti göstermek için biraz mübalağa da edeyim. Ezberci eğitime karşı olmak eğitimin temellerine dinamit yerleştirip, havaya uçurmaktır. Bizi büyük bir enkazla baş başa bırakır. Muhtemelen bu konuda ayrı bir bölüm de çekebiliriz.
