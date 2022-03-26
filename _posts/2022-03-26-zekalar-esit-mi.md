@@ -1,3 +1,11 @@
+---
+title: "Zekalar Eşit mi?"
+share-img: /img/icon.jpg
+thumbnail-img: /img/icon.jpg
+tags: [Zeka, Eğitim, Totoloji, Eşitsizlik, Birikim]
+---
+
+
 Bu yazımız "zekaların eşit olmadığı" kanısı üzerine. Bu kanı iki iddiaya dayandırılır.
 
 İlk iddia insanların çeşitliliği. Örneğin nasıl doğada birebir aynı iki adet yaprak yoksa, birebir aynı iki zeka yoktur. O yüzden bütün zekalar farklıdır. 
