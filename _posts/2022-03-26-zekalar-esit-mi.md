@@ -1,5 +1,5 @@
 ---
-title: "Zekalar Eşit mi?"
+title: "Zekalar Eşit Değil Mi?"
 share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Zeka, Eğitim, Totoloji, Eşitsizlik, Birikim]
