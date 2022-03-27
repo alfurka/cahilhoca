@@ -8,6 +8,8 @@ tags: [Eğitim, Sistem, Birey, İlke, Öğrenim, Podcast]
 
 Bugün eğitim konusunu halk arasında da yaygın olduğu gibi sistem üzerinden değerlendirmeye çalışacağım. Ama bu değerlendirme de amaç sistemimiz iyi veya kötü demek değil. Şikayet etmek hiç değil. Gerçi biz de öğrenciyken hayli şikayet ederdik. Bu bölümde dünya'da uygulanan eğitim sistemlerini örnek gösterip aralarında bir karşılaştırma da yapmayacağım. Sistemin neden önemli olduğunu, neden tartışmaların odağında olduğunu ve  sisteme yapılan müdahalelerin neden etkisiz olduğunu ifade etmeye çalışacağım. 
 
+{% include youtube.html id='o72faTaK-l4' %}
+
 Tabii ki eğitim sisteminin en büyük ayağı siyasi. Belki de toplumdaki sorunların büyük çoğunluğunu ülkelerin başkanları yerine eğitim bakanları çözebilir. Ama konuyu ulus devlet üzerinden ele alırsak bunun bizim eğitim düşüncemize bir katkısı olmaz. Katkı verecek bakış açısı ise ilkeler olmalı diye düşünüyorum. Müfredat, kurgu, kurumlar, sınavlar vesaire, hepsi sistemin birer parçası. Ama hepsi birlikte aynı ilkelere bağlı. Bu yüzden de değerlendirmemizi ilkeler üzerinde tutmamız gerekiyor.
 
 O halde ilk sorumuzla başlayalım. Sistem neden önemli?
