@@ -1,7 +1,7 @@
 ---
 title: "İrade Nedir?"
-share-img: /img/icon.jpg
-thumbnail-img: /img/icon.jpg
+share-img: /img/bulb.jpg
+thumbnail-img: /img/bulb.jpg
 tags: [İrade, Ayrıcalık, Akran Etkisi, Çevre, Çalışmak]
 ---
 
