@@ -1,7 +1,7 @@
 ---
 title: "Zeka Nedir?"
-share-img: /img/ment.jpg
-thumbnail-img: /img/ment.jpg
+share-img: /img/brain.jpg
+thumbnail-img: /img/brain.jpg
 tags: [Zeka, Materyalizm, Algı, Kavram, Çalışmak]
 ---
 
