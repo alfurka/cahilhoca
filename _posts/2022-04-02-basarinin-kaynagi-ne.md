@@ -1,7 +1,7 @@
 ---
 title: "Başarının Kaynağı Ne?"
-share-img: /img/bask.jpg
-thumbnail-img: /img/bask.jpg
+share-img: /img/bask.jpeg
+thumbnail-img: /img/bask.jpeg
 tags: [Başarı, Toplum, Aziz Sancar, Mete Gazoz, Kanılar]
 ---
 
