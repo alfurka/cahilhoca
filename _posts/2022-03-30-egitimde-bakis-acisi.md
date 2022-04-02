@@ -1,7 +1,7 @@
 ---
 title: "Eğitimde Bakış Açısı"
-share-img: /img/icon.jpg
-thumbnail-img: /img/icon.jpg
+share-img: /img/ters.jpg
+thumbnail-img: /img/ters.jpg
 tags: [Eğitim, Bakış, Yetenek, Beceri, Çalışmak]
 ---
 
