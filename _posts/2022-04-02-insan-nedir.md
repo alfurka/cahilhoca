@@ -1,7 +1,7 @@
 ---
 title: "İnsan Nedir?"
-share-img: /img/icon.jpg
-thumbnail-img: /img/icon.jpg
+share-img: /img/owl.jpg
+thumbnail-img: /img/owl.jpg
 tags: [İnsan, Hayvan, Zeka, İrade, Beyin, Kontrol]
 ---
 
