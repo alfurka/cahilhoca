@@ -2,9 +2,8 @@
 title: "Karşılıksız Öğrenme"
 share-img: /img/uzy.png
 thumbnail-img: /img/uzy.png
-tags: [Özgür, Öğrenci, Cahil, Hoca, Birey]
+tags: [Karşılıksız, Bilgi, Çıkar, Sofist, Hakikat]
 ---
-
 
 
 Bu yazımda bahsedeceğim karmaşık konuyu okurken detaylara değil de daha genel bir bakış açısına odaklanmanızı istiyorum. Hem sizler, hem de kendim için özümsemeyi başarabilirsek tüm hayatımızı etkileyebilecek, yaşam tarzına dönüşebilecek bir konu açacağım. Bana katılmama ihtimaliniz oldukça yüksek ama umarım sizler de sık sık soracağım sorular ve genel olarak konu üzerine düşünecek vakit bulabilirsiniz. 
