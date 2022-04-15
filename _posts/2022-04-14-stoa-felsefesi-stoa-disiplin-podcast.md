@@ -6,9 +6,9 @@ thumbnail-img: /img/icon.jpg
 tags: [Stoacılık, Disiplin, Taoizm, İslam, Hristiyanlık, Felsefe, Podcast, Zihinsel Özgürleşme]
 ---
 
-Stoa felsefesin, günümüz eğitim sorunlarına pratik bir bakış açısı sunmaktadır. Bu bölümde stoacılıktan ve eğitimin bir parçası olarak disiplinin öneminden konuşuyoruz.
+Stoa felsefesi, günümüz eğitim sorunlarına pratik bir bakış açısı sunmaktadır. Bu bölümde stoacılıktan ve eğitimin bir parçası olarak disiplinin öneminden konuşuyoruz.
 
-{% include youtube.html id='87jB31Ic4s8' %}
+{% include youtube.html id='t9WUXPYJeTk' %}
 
 Bugünkü konu, önceki bölümlerden daha soyut ve kapsayıcı. Bu yüzden konuya girmeden önce şimdiye kadar yayınladığımız bölümlerin kısa bir özetini yapmak istiyorum. İlk dört bölümde, muhtemelen ismini yanlış telaffuz ettiğim, Fransız filozof Jacques Rancier’in bir kitabını inceledik. Cahil Hoca isimli, podcastimize adını veren bu kitap, eğitim ve zihinsel özgürleşme üzerine felsefi bir metin. Doğanın yasasının bireysellik olduğunu ve mevcut eğitim anlayışının, tüm dünyada, bireyselliği yok ettiğini ve insanı aptallaştırdığını iddia ediyordu. 
 
