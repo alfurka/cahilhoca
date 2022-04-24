@@ -7,8 +7,6 @@ tags: [Yaratıcılık, Beyin, Gaudi, Dali, Roman, Şiir, Podcast]
 ---
 
 
-Yaratıcılık Öğrenilebilir mi?
-
 
 Biraz iddialı bir başlık oldu kabul ediyorum. Ama diğer yanlış kanılarımız gibi yaratıcılığın da doğuştan gelmediğini bugün size anlatmaya çalışacağım. Daha önce yetenekle ilgili benzer bir konular açmıştık. Çünkü bir becerinin insana doğuştan geldiğine inanmak tembellik için bir bahane oluyor. Bu beceriyi geliştirmek isteyen kişinin motivasyonunu da bozuyor. Doğuştan gelen bir beceri olmadığı ile ilgili sizleri ikna edebildik mi bilmiyorum. Ama belki de bu bölümü dinldikten sonunda bugüne kadar hiç yaratıcılık sergileyemediğini düşünenler bile diledikleri alanlarda ortaya güzel şeyler çıkarabilirler. Yaratıcılığa bakışınız değişebilir. En azından öyle ümit ediyorum. 
 
