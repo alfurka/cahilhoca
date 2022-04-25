@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yaraticilik Öğrenilebilir mi? - Podcast (18)"
+title: "Yaratıcılık Öğrenilebilir mi? - Podcast (18)"
 share-img: /img/icon.jpg
 thumbnail-img: /img/icon.jpg
 tags: [Yaratıcılık, Beyin, Gaudi, Dali, Roman, Şiir, Podcast]
