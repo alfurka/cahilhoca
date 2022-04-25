@@ -1,7 +1,7 @@
 ---
 title: "Stoa Felsefesi, Taoizm ve İslam"
-share-img: /img/uzy.png
-thumbnail-img: /img/uzy.png
+share-img: /img/stoa.jpeg
+thumbnail-img: /img/stoa.jpeg
 tags: [İslam, Stoacılık, Stoa Felsefesi, İslam, Taoizm, Kitap]
 ---
 
