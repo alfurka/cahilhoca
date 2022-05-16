@@ -9,6 +9,8 @@ tags: [Çeşitlilik, Herkesleşme, Tektipleşme, Theseus, Podcast]
 
 Bu bölümde eğitimde çeşitlilik ve herkesleşmek gibi iki zıt yönü tarif etmeye çalışacağım. Hepinizin en azından birkaçını Youtube'dan izlediğinizi düşündüğüm Tedx konuşmalarının birinden yola çıkacağım. Biliyorsunuz Tedx konuşmaları uluslararası alanda ve ülkemizde paylaşmaya değer fikirlerin yayılması için düzenleniyor. Bu konuşmalar arasında ise en çok izlenme sayısına sahip olan, Ken Robinson tarafından eğitimle ilgili verilen konuşma. Öncelikle konuşmacı ile ilgili biraz bilgi vermek istiyorum. Sonrasında da neden en çok izlenen konuşma olduğuyla ilgili değerlendirme yapacağım. Ken Robinson, İngiliz bir eğitimci. Kendisi küçük yaşta çocuk felci geçiriyor. Engelli öğrenciler için ayrı ve özel bir eğitim alıyor. Ben geçirdiği bu hastalığın ve aldığı özel eğitimin onun eğitim düşüncesini de etkilediğini düşünüyorum. Yaptığı çalışmalarla birçok ödül, hatta kraliçe'den devlet nişanı da almış.
 
+{% include youtube.html id='ayAUjUSfYhY' %}
+
 Tedx konuşmasında ayakta sabit durarak anlattıkları ile ilgili kendinden o kadar emin ki ne bir görsel, ne de başka etkileyici bir materyal kullanmadan şunu anlatıyor: Eğitim sistemlerinde sorunlar var ama yapılan tüm düzeltmeler de yanlış yönde. Yanlış yönden kastettiği de şu: Öğrencilerin bireyleşmesine değil, hepsinin tektipleşmesine yönelik olması. Tektipleşme biraz yüzeysel bir anlamda olduğu için bunun yerine herkesleşme ifadesini kullanacağım. Hatta bunda sadece öğrencilerin değil  toplumunda etkisi olduğunu düşünürsek Heidegger'in herkesleşme kavramı bireyleşmenin karşıtı olmaya daha uygun diye düşünüyorum.
 
 Ana sebebin ben toplum olduğunu düşünüyorum. Çünkü toplum, bazı meslek gruplarını yine yaygın kanılarla öne çıkararak öğrenciler üzerinde baskı kuruyor. Öğrenciler de bu mesleklere yönelik belli derslere kanalize oluyor. Bu sağlıklı bir yönlendirme değil. Sebebi de çok bariz ki, öğrenci aldığı onca farklı ders arasından birkaç tanesinde başarılı değilse sanki zekası geriymiş, gelişimini tamamlayamamış gibi bir muameleyle karşılaşıyor. Bu hem okul tarafından, hem de toplum tarafından yapılıyor. Halbuki başka derslerde çok başarılı, ilgisi ve merakı var. Birikimleri yüksek, yaratıcılık sergileyebiliyor, kendini geliştirebiliyor. Bireysel yönelimleri ve özgünlüğü var. Fakat bu takdir görmüyor. Bu noktada bireyleşmeye ket vurularak herkesleşme devreye giriyor. Ek derslerle, sınavlarla böyle sivrilikler törpülenerek tekrar tırnak içinde "normale" döndürülüyorlar. 
@@ -33,3 +35,5 @@ Bu bölümde anlatmak istediğim olguyu en hızlı şekilde tersine çevirebilec
 
 Bir sonraki bölümde görüşmek üzere hoşçakalın.
 
+
+https://www.youtube.com/watch?v=iG9CE55wbtY&t=162s
