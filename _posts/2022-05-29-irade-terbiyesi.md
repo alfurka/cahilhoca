@@ -7,10 +7,6 @@ tags: [İrade, Jules Payot, Nefis, Kaplumbağa, Çalışmak, Podcast]
 ---
 
 
-Kaplumbağa Terbiyecisi
-
-
-Merhabalar ben Talha,
 
 Çocukluğumuzda hepimizin bildiği bir hikaye vardı. Kaplumbağa ve tavşan hikayesi. Hatırlatmak için kısaca tekrar bahsetmek istiyorum. Bir kaplumbağa ve tavşan arasında ormanda koşu yarışı düzenleniyor. Tavşan hızlıca koşup yolun yarısında bir ağacın gölgesinde uzanıyor. "Biraz dinleneyim, nasılsa kaplumbağa çok yavaştır, beni geçemez." diye tembellik yapıyor. Kaplumbağa ise hiç durmadan dinlenmeden yola devam ediyor ve koşuyu tamamlayıp yarışı kazanıyor. Tavşan durumu farketse de yetişmek için artık çok geç oluyor. 
 
