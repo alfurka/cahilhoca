@@ -10,6 +10,8 @@ tags: [İrade, Jules Payot, Nefis, Kaplumbağa, Çalışmak, Podcast]
 
 Çocukluğumuzda hepimizin bildiği bir hikaye vardı. Kaplumbağa ve tavşan hikayesi. Hatırlatmak için kısaca tekrar bahsetmek istiyorum. Bir kaplumbağa ve tavşan arasında ormanda koşu yarışı düzenleniyor. Tavşan hızlıca koşup yolun yarısında bir ağacın gölgesinde uzanıyor. "Biraz dinleneyim, nasılsa kaplumbağa çok yavaştır, beni geçemez." diye tembellik yapıyor. Kaplumbağa ise hiç durmadan dinlenmeden yola devam ediyor ve koşuyu tamamlayıp yarışı kazanıyor. Tavşan durumu farketse de yetişmek için artık çok geç oluyor. 
 
+{% include youtube.html id='Xkou7tbR5Ik' %}
+
 Bu hikaye çok bilinen, çok anlatılan bir hikaye. Tavşan ve kaplumbağa sembolik olarak toplumdaki zekaların eşit olmadığı kanısıyla öğrenciler arasında bir ayrım yapmaya da neden olur. Aslında öğrenciye verilmek istenen mesaj şudur. "Senden daha zeki olan birini ancak durup dinlenmeden çalışarak geçebilirsin." Burada bir değil birden fazla sıkıntı var. Tek tek ele almak gerekirse öncelikle Cahil Hoca kitabından yola çıkarak yarışanların bir tavşan ve kaplumbağa değil, aslında birbirine çok yakın hızlarda iki kaplumbağa olduğunu söyleyebiliriz. Hatırlarsanız kitap şöyle bir kabulle başlıyordu.
 "Bir insanın en iyi öğrendiği şey, kendi kendine öğrendiği anadilidir. Anadilini öğrenen her insanın zekası yeterli kabul edilir." 
 Hikayede hız konusunu eşitlemiş olduk. Artık iki kaplumbağamız var. Peki şimdi hangisi kazanacak?
