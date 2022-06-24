@@ -19,7 +19,8 @@ Son olarak da sosyal medyanın ve bilgi bombardımanının neden eğitimi sektey
 
 Aslında bu bölüm kısaca bu yöntemin kavramsallaştırılması üzerine olacak. Sonraki bölümünde ise working memory yani işler bellek konusu özelinde bu yöntemin pratik yönlerini ele alacağız. 
 
-Görselleştirme Yoluyla Öğrenme
+## Görselleştirme Yoluyla Öğrenme
+
 Ben ilkokulda iken bir dönem arkadaşlarımız arasında spor yapmak popüler olmuştu. Kendisini çok hatırlamıyorum ama okula ilginç bir beden eğitimi hocası geldi. Herkesin ilgi üzerine çekti. Arkadaşlarımla teneffüslerde hepimiz taklalar atıyoruz, duvarların üstünde yürüyoruz, şınav çekiyoruz… Tam sirke döndü okul. Hocanın yapabildiği ama hiç birimizin yapamadığı şeylerden birisi de elleri üzerinde yürümek. Herkes deniyor ama yapabilen yok. Ben de deniyorum ama olmuyor. Diğer arkadaşlardan muhtemelen farklı olarak benim babam da bunu yapabiliyor. Bazen ondan yapmasını istiyor ve onu seyrediyordum ama ellerin üzerinde yürümek çok zor bir şey. Vücudunuzu taşıyabilecek kadar güçlü kollara sahip olmalı ve kendinizi dengelemeye alışmanız lazım. Ben de başaramadım tabi. Sonra unutuldu gitti. Belki bir iki sene sonra NTV’de bir belgesel çıktı. Spor’da görselleştirme yoluyla sporcuların zor hareketleri nasıl öğrendiklerini anlatıyordu. Belgeseldeki örnek bir jimnastikçinin yapamadığı bir hareketi, nihayetinde zihinsel görselleştirme yoluyla nasıl yapabildiğini gösteriyordu. Yapmanız gereken şey uzun bir süre boyunca yapamadığınız hareketi zihninizde kendinizi yapıyorken canlandırmak. Bunun tam olarak ne kadar yapılması gerektiğini çok hatırlamıyorum. Sanırım bir iki saatlik antremanlar yapılması gerekiyor. Neyse… Belgeseli bitirdikten sonra bende şimşekler çaktı. Acaba ben bunu deneyerek elimin üstünde yürüyebilir miyim? 
 
 Evimizin uzun bir koridoru vardı. Kapının önüne oturdum ve yarım saat boyunca, belgeselde anlatıldığı şekilde zihnimde elimin üzerinde yürüdüğümü hayal ettim. Bu süreçte tekrar tekrar amuda kalktığım anı, amuda kalktıktan sonra yerde hareket eden ellerimi, sonrasında 3. bir gözün bakış açısı ile vücudumun duruşunu… Daha önceden bunu deneyip başaramadığınız için zihninizde canlandırırken, mesela, kolunuza binen yükü anımsayabiliyorsunuz. Aynı zamanda daha önce elinin üzerinde yürüyebilen babamı tekrar tekrar gördüğüm için, vücudumun nasıl şekil alması gerektiğini de doğru bir şekilde görselleştirebiliyordum. Ardından ilk denememde ellerimin üstünde koridorun sonuna kadar yürüyebildim. Artık ellerimin üzerinde yürümek çok havalı değil ama bunu başarabilmek beni çok mutlu etti. Adeta büyülenmiştim. 
@@ -30,7 +31,7 @@ https://scholar.google.com.au/scholar?q=imagery+in+sports&hl=en&as_sdt=0&as_vis=
 
 Sporcuların zihinsel görselleştirme sürecinde beyni taranmış, farklı yöntemler geliştirilmiş ve hangisi iyi diye tartışılıyor vs. Zihinsel görselleştirme ile sadece motor hareketlerin öğrenilmesi için kullanılmıyor. Mesela, heyecanınızı yenmek için ya da motivasyonunuzu yüksek tutmak için de kullanabilirsiniz. Eğer herhangi bir spor ile uğraşıyorsanız, kesinlikte spor psikolojisi literatürüne bakmanızı tavsiye ederim. Görselleştirme yoluyla antreman yapan sporcuların daha başarılı olduğuna dair pek çok bilimsel kanıt var. 
 
-Anımsayarak Öğrenme
+## Anımsayarak Öğrenme
 
 İngilizcesi “learning by retrieval”. Sanıyorum ki anımsayarak öğrenme diye çevirebiliriz. Bu konuda da devasa bir literatür oluşmuş. Bu konudaki kaynaklara da web sayfamıza koyduğum linkten ulaşabilirsiniz. 
 
@@ -59,7 +60,7 @@ Yine aynı yöntemi, üniversite sınavında stresimi yönetmek için kullandım
 Notlandırmadan quiz yapmak. 
 Sanıyorum ki herkesin hayatında bir dönem kullandığı flaş kartlar. 
 
-Benim bazı örnek uygulamalarım
+## Benim bazı örnek uygulamalarım
 
 Gözleri kapatıp, öğrenilenleri zihinde özetlemek. 
 Soru çözerek ders çalışırken, uzun süre çözümlere bakmadan çözmeye çalışmak. 
@@ -76,7 +77,7 @@ Zihinsel pratik yöntemi üzerine yapılan çalışmalar bu yöntemin ne kadar v
 Düşünmeye Zaman kalmaması
 Zihinsel pratik yöntemi eğitimdeki pek çok konu ile ilişkilendirilebilir. Mesela sosyal medyada fazla vakit geçirmenin neden insanları aptallaştırdığı. Cevap: Bizim boş vakit olarak adlandırdığımız can sıkıntısı durumları aslında zihnimizde tecrübelerimiz, kavramlar üzerine düşündüğümüz ve/veya hülyalara daldığımız bir serüven. Bu serüven öğrenimimize ve sahip olduğumuz bilgilerin idrakinin derinleşmesine katkıda bulunan bir süreç. Bilgisayar, televizyon ve telefon karşısında zombileşerek bundan mahrum kaldığımız her an ise aptallaşmamıza katkıda bulunuyor. Daha doğrusu, gelişimimizin sekteye uğramasına neden oluyor. Sosyal medya kullanımının etkileri konusunda bir dünya çalışma olduğu için ben zihinsel pratik konusunu farklı bir mesele ile ilişkisinden konuşmak istiyorum. 
 
-Ezber Konusuna Dönüş
+## Ezber Konusuna Dönüş
 
 Pek çok eğitimcinin ve öğretmenin tekrar ettiği “ezberci eğitime karşı olmak” konusuna tekrar gelelim. Bu konudan kısaca ikinci bölümde Talha ile bahsetmiştik. Ayrıca ben, “Öğrenme ve Kompozisyon Yazmak” başlıklı altıncı bölümde konuyu Bloom taksonomisi üzerinden tekrar ele almıştım. Eğitimde ezberin ne kadar temel bir basamak olduğunu ve ezberci eğitime karşı çıkmak söylemlerinin eğitim sürecine nasıl balta vurduğunu anlatmıştım. Bu konuyu, zihinsel pratik yöntemi üzerinden tekrar konuşalım. 
 
