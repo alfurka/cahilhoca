@@ -9,6 +9,8 @@ tags: [Görselleştirme, Anımsama, Zihinsel, Öğrenme, Podcast]
 
 Bu bölüm benim yıllardır kullandığım bir öğrenim yöntemi üzerine olacak. Zihinsel Pratik yöntemi olarak adlandırdım ama aslında hala kavram üzerine düşünüyorum. Bu yöntemin eğitimde ya da psikolojide tam karşılığını bulamadım. Sporda ve eğitimde benim yöntemimin izdüşümleri var. Spordaki “Learning by imagery” yani görselleştirerek öğrenme. Eğitimdeki ise “retrieval learning”. Bunu doğrudan nasıl çevirebilirim bilmiyorum. Sanırım anımsayarak öğrenme denilebilir. 
 
+{% include youtube.html id='ktogDflbHfs' %}
+
 Pek çok kişi tarafından bu yöntemler keşfedilmiş ve bir kısmı literatüre kazandırılmış. Benim “Zihinsel Pratik” dediğim şey ise bunları her ikisini de kapsıyor ve daha genel bir kavram. Bugünkü bölümün programı kısaca şu şekilde olacak:
 
 İlk önce sporda görselleştirerek öğrenme hakkında konuşacağız. 
