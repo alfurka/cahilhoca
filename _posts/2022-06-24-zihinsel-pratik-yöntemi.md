@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Zihinsel Pratik Yöntemi - Podcast (21)"
@@ -88,4 +86,4 @@ Oğuz Atay’ın “Bir Bilim Adamının Romanı” isimli Mustafa İnan hakkın
 
 Mustafa İnan’ın bahsettiği kişi bendim. Gerçekten o zamanlar ezberci eğitime karşı olan bir genç olarak, hafızanın önemini de pek idrak edememiştim. Çok fazla bu kısımları irdelemeden zihinsel pratik yöntemine dönelim. Zihinsel pratik yönteminin ihtiyaç duyduğu en önemli şey, zihnimizde KONU HAKKINDA AKIL YÜRÜTMEMİZE YETECEK KADAR BİLGİNİN HALİHAZIRDA BULUNMASIDIR. Zihninizde olmayan şeyi anımsayamaz, düşünemezsiniz. Bu da düşündüğünüz konu hakkında akıl yürütme sınırlarınızı belirler. 
 
-Bu bölümde zihinsel pratik yöntemini ve kavramsallaştırılmasını konuştuk. Sonraki bölümde hafıza konusunu detaylıca ele alıp çok önemli bir detayı konuşacağız: Working memory. Sanıyorum bunun teknik çevirisi işler bellek. Sözlükte kısa süreli hafıza ve çalışma belleği gibi farklı çevirileri de var. Ben sonraki bölümde işler belleğin, bilişsel kapasitemiz için önemini ve işler belleğin pratikle nasıl geliştirilebileceğini zihinsel pratik yöntemi özelinde konuşacağız. Sonraki bölümde görüşmek üzere iyi günler.
+Bu bölümde zihinsel pratik yöntemini ve kavramsallaştırılmasını konuştuk. Sonraki bölümde hafıza konusunu detaylıca ele alıp çok önemli bir detayı konuşacağız: Working memory. Sanıyorum bunun teknik çevirisi işler bellek. Sözlükte kısa süreli hafıza ve çalışma belleği gibi farklı çevirileri de var. Ben sonraki bölümde işler belleğin, bilişsel kapasitemiz için önemini ve işler belleğin pratikle nasıl geliştirilebileceğini zihinsel pratik yöntemi özelinde konuşacağız. 
