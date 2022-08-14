@@ -8,7 +8,7 @@ tags: [Görselleştirme, Bellek, Zihinsel, Working Memory, Öğrenme, Podcast]
 
 Yirmi birinci bölümde "Zihinsel Pratik yöntemi" olarak adlandırdığım bir yöntemden bahsetmiştim. Sporda bunun literatürdeki karşılığı “görselleştirme yoluyla öğrenme” olarak geçiyordu. Yine benim bahsettiğim yöntemin sınıflarda “anımsayarak öğrenme” olarak adlandırılan bir izdüşümü de var. Bunlardan kısaca bahsetmiştim. Farkında olarak veya olmayarak bu yöntemleri hepimiz doğal olarak uyguluyoruz. Örneğin sınavlar... Yaptığımız sınavlar aslında bir “anımsayarak öğrenme” uygulaması. Sınavda öğrenciye sorulan sorular, ondan bir bilgiyi anımsamasını ve ardından kullanmasını gerektiriyor. Her ne kadar sınavları ölçüm amacı ile kullanıyor olsak da, sınavlar öğrenimin pekiştirilmesine yardımcı oluyor. Veya sporcular müsabakalardan sonra değerlendirmeler yapıyor. Sporcular bu esnada olayın içerisindeki kişiler olarak geçmişteki durumları anımsıyor ve aslında öğrenimlerini pekiştirmiş oluyor. 
 
-{% include youtube.html id='ktogDflbHfs' %}
+{% include youtube.html id='kpHxNq49PGo' %}
 
 Bugünkü bölümde ise benim zihinsel pratik olarak adlandırdığım yöntemlerin verimliliğini en çok etkilediğini düşündüğüm parametreden bahsedeceğim: Çalışma belleği. Bu kavram size pek bir şey ifade etmemiş olabilir ama muhtemelen “Working memory” ifadesini duymuşsunuzdur. Sanırım Türkçe’ye en doğru tercümesi “Çalışma Belleği.” (Kulağınıza doğru çevirinin ne olduğuna dair uzun bir araştırma yapmış gibi geldiyse öyle bir şey yok. Sadece Wikipedia’daki “Working memory” sayfasının türkçesinde “Çalışma Belleği” olarak başlık atıldığını gördüm. Herhalde en doğrusu budur…) 
 
