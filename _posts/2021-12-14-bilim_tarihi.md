@@ -73,8 +73,7 @@ Mikroskobi’nin ilk büyük öncüsü Marcello Malpighi’ydi. Kan dolaşımı 
 
 ## Newton Devrimi
 
-17. yy’da yaşanan bu bilimsel atılımda 3 bilim insanı öne çıkmaktadır. Başta Isaac Newton olmak üzere, Robert Hooke ve Edmond Halley. 
-O dönemde Ayüstü alem ve Ayaltı alemin farklı fizik yasalarına göre işlediği düşünülüyordu. Newton, kendi dönemine kadar evren, madde ve hareket kavramları ile ilgili yapılan çalışmalardan, felsefi açıklamalardan kendi fizik sistemini kuracak, bilim tarihinin en büyük devrimine imza atacaktı. 
+Bu bilimsel atılımda 3 bilim insanı öne çıkmaktadır. Başta Isaac Newton olmak üzere, Robert Hooke ve Edmond Halley. O dönemde Ayüstü alem ve Ayaltı alemin farklı fizik yasalarına göre işlediği düşünülüyordu. Newton, kendi dönemine kadar evren, madde ve hareket kavramları ile ilgili yapılan çalışmalardan, felsefi açıklamalardan kendi fizik sistemini kuracak, bilim tarihinin en büyük devrimine imza atacaktı.
 
 Newton düşüncelerini hemen hiç kimseyle paylaşmayarak zamanını deneyler yapmakla ve dünya hakkında düşünmekle geçirdi. Optik alanındaki en önemli çalışması beyaz ışığı gökkuşağı renklerine ayırıp ardından renkleri tekrar birleştirerek beyaz ışığa ulaşmasıdır.
 
