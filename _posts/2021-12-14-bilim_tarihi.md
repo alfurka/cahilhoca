@@ -72,6 +72,7 @@ Boyle simyaya bilimsel olarak yaklaşmaktadır. Adi metalleri altına çevirmesi
 Mikroskobi’nin ilk büyük öncüsü Marcello Malpighi’ydi. Kan dolaşımı ile ilgili önemli çalışmalar yaptı.
 
 ## Newton Devrimi
+
 17. yy’da yaşanan bu bilimsel atılımda 3 bilim insanı öne çıkmaktadır. Başta Isaac Newton olmak üzere, Robert Hooke ve Edmond Halley. 
 O dönemde Ayüstü alem ve Ayaltı alemin farklı fizik yasalarına göre işlediği düşünülüyordu. Newton, kendi dönemine kadar evren, madde ve hareket kavramları ile ilgili yapılan çalışmalardan, felsefi açıklamalardan kendi fizik sistemini kuracak, bilim tarihinin en büyük devrimine imza atacaktı. 
 
@@ -285,11 +286,11 @@ Milattan önce 5. yy’da Anaxagoras düşen bir göktaşının Güneş’ten ge
 
 Demir çekirdekleri gündelik yaşamda karşılaştığımız maddenin en kararlı formunun en az enerjiyle temsilcisidir. Kimyasal tepkimelere girmeyen Helyum dışında evrende en sık rastlanan 4 element Hidrojen, Karbon, Oksijen ve Azot’tur. Aynı zamanda canlılık ve yaşamın kimyasında en sık rastlanan dört element de bu elementlerdir. Gökyüzüne baktığımız ilk günden bugüne dek ulaştığımız en kesin gerçek budur. Bu gerçek Dünya’nın evrende özel bir yer olmadığının ve evrenin heryerinde bu elementlerden meydana gelen başka yaşam formlarının olabileceğini gösterir. Rönesans öncesi var olan özel ve ayrıcalıklı olduğumuz anlayışı artık sona ermiştir. 
 
-## Sonsöz -(Yazar) 
+## Sonsöz - (Yazar) 
 
 Bilim yapma süreci kişisel bir faaliyet olsa da bilim esasen kişiler üstüdür. Bilimde devrimleri reddediyorum ve bilimsel gelişmeyi esasen artımlı ve adım adım ilerleyen bir süreç görüyorum. Gerekli altyapısı oluşan keşifler aynı anda birbirinden bağımsız bilim adamları tarafından yapıldı ve önce açıklayanın adı ile anıldı. Hatta bazı büyük bilim adamları arkadaşları ısrar etmese ulaştıkları bulguları yayınlamaya bile gerek duymayacak kadar bir şeyleri anlamanın hazzı ile yetinmeye razıydı.
 
-## Sonsöz -(Okuyucu)
+## Sonsöz - (Okuyucu)
 Kitabın teknolojik gelişmeler ve icatlarla bilimsel keşiflere katkı sağlamadığı sürece pek ilgilenmediğini söyleyebilirim. (ampul, telefon, telgraf vs.) Ayrıca Alfa yayınlarından çıkan 2. baskı kitap kapağında yer alan 6 bilim insanından ikisi kitapta yer almıyor. Nikola Tesla’dan hiç bahsetmemesini buna göre yorumlasam da 1975 yılında yayınlanan Hawking Radyasyonu’ndan ve Stephan Hawking’in kendisinden bahsetmemesi ilginç. Ama yazarın Hawking ile ilgili ayrı bir kitabının olduğunu biliyoruz.
 Bir diğer ilginç nokta Hooke’u bilime katkı anlamında neredeyse Newton ile eşdeğer bir bilim adamı olduğunu iddia etmesi. 
 Genel olarak kitabın başarılı bulduğum noktalar bilim ve evren algısının gelişimini adım adım işlemesi, keşiflerin yapılabilmesi için gerekli önkeşifleri vurgulaması, bilim ile ilgilenen insan profilinin zengin ailelerin gençleri arasında bir hobi olmaktan bir mesleğe dönüşümünü, farklı bilim dallarının kesiştiği ortak konularda (Dünya’nın yaşı gibi) teorilerin karşılaştırmasını anlaşılır bir dille aktarmasıdır. İç uzay kısmını özetlemekte oldukça zorlandığımı belirtmem gerekiyor.
